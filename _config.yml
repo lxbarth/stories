@@ -1,6 +1,8 @@
 # Jekyll
 permalink: /:year/:title/
 paginate: 10 
+auto: true
+server: true
 exclude: 
-name: Jekyll Bootstrap
-baseurl: /jekyll-bootstrap
+name: Stories
+baseurl: /stories
