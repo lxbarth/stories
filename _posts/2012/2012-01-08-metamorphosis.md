@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Metamorphosis - Franz Kafka
-category: post
 permalink: /metamorphosis.html
 ---
 
