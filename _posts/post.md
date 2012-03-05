@@ -1,8 +1,7 @@
 ---
-
-title: Title goes here
+title: Title here
 layout: default
-
 ---
 
 content goes here
+
