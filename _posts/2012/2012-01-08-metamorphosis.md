@@ -3,9 +3,10 @@ layout: default
 title: Metamorphosis - Franz Kafka
 permalink: /metamorphosis.html
 ---
-
 I
 
+
+Whatever. Example.
 
 One morning, when Gregor Samsa woke from troubled dreams, he found
 himself transformed in his bed into a horrible vermin.  He lay on
@@ -1953,4 +1954,5 @@ it they agreed that it would soon be time to find a good man for
 her.  And, as if in confirmation of their new dreams and good
 intentions, as soon as they reached their destination Grete was the
 first to get up and stretch out her young body.
+
 
