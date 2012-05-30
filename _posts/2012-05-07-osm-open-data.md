@@ -1,8 +1,9 @@
 ---
 0: "object Object"
-published: "undefined"
+published: true
 title: "OpenStreetMap is "
 subtitle: "Open Data"
 ---
+
 
 
